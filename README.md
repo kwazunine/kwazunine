@@ -2,7 +2,7 @@
 
 <h2>💻 Cybersecurity & System Administration Projects 💻</h2>
 
- - [Active Directory Home Lab](https://github.com/kwazunine/activedirectorylab)
+ - [Active Directory | PowerShell User Creation](https://github.com/kwazunine/activedirectorypowershellusercreation)
 
 
 <h2>📜 Certfications 📜</h2>
@@ -18,7 +18,7 @@
 
 <h2> 🔗 Link Up 🔗 </h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KeldonSmall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/kwazunine
 
