@@ -1,8 +1,8 @@
 <h1>Greetings! I'm an <a href="https://www.linkedin.com/in/kwazunine/">IT Professional</a></h1>
 
-<h2>💻 Cybersecurity & System Administration Projects 💻</h2>
+<h2>💻 Cybersecurity | Networking | System Administration Projects 💻</h2>
 
- - [Active Directory | PowerShell User Creation](https://github.com/kwazunine/activedirectorypowershellusercreation)
+ - [Active Directory User Creation with PowerShell Script | DHCP | NAT ](https://github.com/kwazunine/ADPowerShellScriptwithNATandDHCP)
 
 
 <h2>📜 Certfications 📜</h2>
