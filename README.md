@@ -2,7 +2,7 @@
 
 <h2>💻 Cybersecurity | Networking | System Administration Projects 💻</h2>
 
- - [Active Directory User Creation with PowerShell Script | DHCP | NAT ](https://github.com/kwazunine/ActiveDirectoryPowerShellUserCreationwithDHCPNAT)
+ - [Active Directory User Creation with PowerShell Script | DHCP | NAT ](https://github.com/kwazunine/ActiveDirectoryDHCPNATPowerShellSrcript)
 
 
 <h2>📜 Certfications 📜</h2>
