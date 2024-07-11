@@ -3,6 +3,7 @@
 <h2>💻 Cybersecurity | Networking | System Administration Projects 💻</h2>
 
  - [Active Directory | DHCP | NAT | PowerShell Script 'User Creation'](https://github.com/kwazunine/ActiveDirectoryDHCPNATPowerShellSrcript)
+ - [Azure VM Honeypot | Microsoft Sentinel 'SIEM'](https://github.com/kwazunine/AzureVMHoneyPotMicrosoftSentinel)
 
 
 <h2>📜 Certfications 📜</h2>
