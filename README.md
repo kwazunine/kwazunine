@@ -2,6 +2,7 @@
 
 <h2>💻 Cybersecurity | Networking | System Administration Projects 💻</h2>
 
+ - [NIST SP 800-53 SC-7 Boundary Protection](https://github.com/kwazunine/AzureNISTSP80053)
  - [Azure Security Operations Center ](https://github.com/kwazunine/AzureSecurityOperationsCenter)
  - [Azure VM Honeypot | Microsoft Sentinel 'SIEM'](https://github.com/kwazunine/AzureVMHoneyPotMicrosoftSentinel)
  - [Active Directory | DHCP | NAT | PowerShell Script 'User Creation'](https://github.com/kwazunine/ActiveDirectoryDHCPNATPowerShellSrcript)
