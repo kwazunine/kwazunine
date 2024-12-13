@@ -1,4 +1,5 @@
 <h1>Greetings! I'm an <a href="https://www.linkedin.com/in/kwazunine/">IT Professional</a></h1>
+<h3>'Fall seven times and stand up eight.'</h3>
 
 <h2>💻 Cybersecurity | Networking | System Administration Projects 💻</h2>
 
