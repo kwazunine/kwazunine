@@ -1,4 +1,4 @@
-<h1>Greetings! I'm an <a href="https://www.linkedin.com/in/kwazunine/">IT Professional</a> specializing in network and systems support, with a strong enthusiasm for cybersecurity.</h1>
+<h1>Greetings! I'm an <a href="https://www.linkedin.com/in/kwazunine/">IT Professional</a> specializing in IT infrastructure support, with an interest in securing and protecting information systems.</h1>
 
 <h2>💻 Cybersecurity | Networking | System Administration Projects 💻</h2>
 
