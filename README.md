@@ -17,7 +17,7 @@
 - [CompTIA Pentest+](https://www.credly.com/earner/earned/badge/894fcf76-7e35-4c78-a7b1-b7dbfffed2bf)
 - [CompTIA Project+](https://www.credly.com/earner/earned/badge/3cc78867-8d09-4a45-8d1f-676cae221e29)
 - [CompTIA Security+](https://www.credly.com/earner/earned/badge/b2666c14-b26e-4253-9192-d99e49a63e9a)
-
+- Microsoft AZ-900
 <h2> 🔗 Link Up 🔗 </h2>
 
 [<img align="left" alt="KeldonSmall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
