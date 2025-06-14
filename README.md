@@ -1,10 +1,13 @@
-<h1>Greetings! I'm an <a href="https://www.linkedin.com/in/kwazunine/">IT Professional</a> experienced in IT infrastructure support.</h1>
+<h1>Greetings! I'm an <a href="https://www.linkedin.com/in/kwazunine/">IT Professional</a> who enjoys most things IT related.</h1>
 
-<h2>💻 Cybersecurity | Networking | System Administration Projects 💻</h2>
+<h2>💻 Cybersecurity Projects 💻</h2>
 
  - [NIST SP 800-53 SC-7 Boundary Protection](https://github.com/kwazunine/AzureNISTSP80053)
  - [Azure Security Operations Center ](https://github.com/kwazunine/AzureSecurityOperationsCenter)
  - [Azure VM Honeypot | Microsoft Sentinel 'SIEM'](https://github.com/kwazunine/AzureVMHoneyPotMicrosoftSentinel)
+
+<h2>💻 Networking | System Administration Projects 💻</h2>
+
  - [Active Directory | DHCP | NAT | PowerShell Script 'User Creation'](https://github.com/kwazunine/ActiveDirectoryDHCPNATPowerShellSrcript)
 
 <h2>📜 Certfications 📜</h2>
