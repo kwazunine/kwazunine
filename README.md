@@ -2,7 +2,7 @@
 
 <h2>💻 Cybersecurity Projects 💻</h2>
 
- - [NIST SP 800-53 SC-7 Boundary Protection](https://github.com/kwazunine/AzureNISTSP80053)
+ - [Microsoft Defender for Cloud | NIST SP 800-53 (SC-7 Boundary Protection) Compliance](https://github.com/kwazunine/AzureNISTSP80053)
  - [Azure Security Operations Center ](https://github.com/kwazunine/AzureSecurityOperationsCenter)
  - [Azure VM Honeypot | Microsoft Sentinel 'SIEM'](https://github.com/kwazunine/AzureVMHoneyPotMicrosoftSentinel)
 
