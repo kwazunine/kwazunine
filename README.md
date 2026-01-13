@@ -1,16 +1,16 @@
-<h1>Greetings! I'm an <a href="https://www.linkedin.com/in/kwazunine/">IT Professional</a> who enjoys most things IT related.</h1>
+# Greetings! I'm an <a href="https://www.linkedin.com/in/kwazunine/">IT Professional</a> who enjoys most things IT related.
 
-<h2>💻 Cybersecurity Projects 💻</h2>
+## 💻 Cybersecurity Projects 💻
 
  - [Microsoft Defender for Cloud | NIST SP 800-53 (SC-7 Boundary Protection) Compliance](https://github.com/kwazunine/AzureNISTSP80053)
  - [Azure Security Operations Center ](https://github.com/kwazunine/AzureSecurityOperationsCenter)
  - [Azure VM Honeypot | Microsoft Sentinel 'SIEM'](https://github.com/kwazunine/AzureVMHoneyPotMicrosoftSentinel)
 
-<h2>💻 Networking | System Administration Projects 💻</h2>
+## 💻 Networking | System Administration Projects 💻
 
  - [Active Directory | DHCP | NAT | PowerShell Script 'User Creation'](https://github.com/kwazunine/ActiveDirectoryDHCPNATPowerShellSrcript)
 
-<h2>📜 Certfications 📜</h2>
+## 📜 Certfications 📜
 
 - AXELOS ITIL Foundations
 - [Cisco CCNA](https://www.credly.com/earner/earned/badge/2a6e20af-9c85-4956-8f1f-132f2b65d3d4)
@@ -22,7 +22,7 @@
 - [CompTIA Security+](https://www.credly.com/earner/earned/badge/b2666c14-b26e-4253-9192-d99e49a63e9a)
 - Microsoft AZ-104
 - Microsoft AZ-900
-<h2> 🔗 Link Up 🔗 </h2>
+## 🔗 Socials 🔗
 
 [<img align="left" alt="KeldonSmall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
